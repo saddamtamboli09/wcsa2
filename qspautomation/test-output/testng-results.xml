@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6743" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:05 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6743" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:05 IST">
+      <class name="TestNGPackage.Class1">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:TestNGPackage.Class1@2781e022]" name="launchGoogle1" duration-ms="6101" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- TestNGPackage.Class1 -->
+      <class name="TestNGPackage.Class2">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:TestNGPackage.Class2@57e1b0c]" name="launchGoogle1" duration-ms="6715" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- TestNGPackage.Class2 -->
+      <class name="TestNGPackage.Class3">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:TestNGPackage.Class3@3712b94]" name="launchGoogle1" duration-ms="6277" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- TestNGPackage.Class3 -->
+      <class name="TestNGPackage.Class4">
+        <test-method status="PASS" signature="launchGoogle1()[pri:0, instance:TestNGPackage.Class4@4493d195]" name="launchGoogle1" duration-ms="5013" started-at="2022-08-30T23:26:59 IST" finished-at="2022-08-30T23:27:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle1 -->
+      </class> <!-- TestNGPackage.Class4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
